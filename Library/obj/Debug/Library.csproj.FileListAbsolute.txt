@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Library\bin\Debug\Library.dll
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Library\bin\Debug\Library.pdb
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Library\obj\Debug\Library.dll
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Library\obj\Debug\Library.pdb

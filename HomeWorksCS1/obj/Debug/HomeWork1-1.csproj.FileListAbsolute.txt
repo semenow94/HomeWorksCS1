@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\bin\Debug\HomeWorksCS1.exe.config
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\bin\Debug\HomeWorksCS1.exe
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\bin\Debug\HomeWorksCS1.pdb
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\obj\Debug\HomeWork1-1.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\obj\Debug\HomeWork1-1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\obj\Debug\HomeWorksCS1.exe
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\obj\Debug\HomeWorksCS1.pdb
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\bin\Debug\Library.dll
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\bin\Debug\Library.pdb
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\HomeWorksCS1\obj\Debug\HomeWork1-1.csproj.CopyComplete
