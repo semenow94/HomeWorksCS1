@@ -16,7 +16,7 @@ namespace HomeWork1_2
         {
             double imt, height, weight, height_m;
 
-            Console.Write("Какой у вас рост? ");
+            Console.Write("Какой у вас рост в см? ");
             height = Convert.ToDouble(Console.ReadLine());
             Console.Write("Какой у вас вес? ");
             weight = Convert.ToDouble(Console.ReadLine());
