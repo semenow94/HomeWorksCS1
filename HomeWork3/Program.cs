@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 using Library;
 
 //Семенов Дмитрий
-
-namespace HomeWork2
+namespace HomeWork3
 {
     class Program
     {
@@ -19,15 +18,11 @@ namespace HomeWork2
                 Console.WriteLine("1 - Task1 ");
                 Console.WriteLine("2 - Task2 ");
                 Console.WriteLine("3 - Task3 ");
-                Console.WriteLine("4 - Task4 ");
-                Console.WriteLine("5 - Task5 ");
-                Console.WriteLine("6 - Task6 ");
-                Console.WriteLine("7 - Task7 ");
                 Console.WriteLine("0 - Exit ");
                 i = Convert.ToInt32(Console.ReadLine());
             }
             while (i < 0 || i > 7);
-            return i;       
+            return i;
         }
         static void Main()
         {
@@ -50,18 +45,6 @@ namespace HomeWork2
                     case 3:
                         Tasks.Task3();
                         break;
-                    case 4:
-                        Tasks.Task4();
-                        break;
-                    case 5:
-                        Tasks.Task5();
-                        break;
-                    case 6:
-                        Tasks.Task6();
-                        break;
-                    case 7:
-                        Tasks.Task7();
-                        break;
                     case 0:
                         Console.WriteLine("GoodBye!");
                         break;
@@ -69,7 +52,6 @@ namespace HomeWork2
                 Console.WriteLine("****************************************************************");
                 Console.WriteLine();
             } while (i != 0);
-            
             ConsoleHelp.Pause();
         }
     }
