@@ -99,6 +99,7 @@ namespace Wallet
             Exchange.Description = coshel.opers[index].Description;
             Exchange.Date = coshel.opers[index].Date;
             Exchange.Type = coshel.opers[index].Type;
+            form.Setup();
             form.ShowDialog();
             if(Exchange.Edit==1)
             {

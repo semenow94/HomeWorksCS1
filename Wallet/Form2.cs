@@ -15,14 +15,18 @@ namespace Wallet
         public Form2()
         {
             InitializeComponent();
-            if(Exchange.Index>=0)
+            
+        }
+        public void Setup()
+        {
+            if (Exchange.Index >= 0)
             {
                 textBox1.Text = Exchange.Sum.ToString();
                 textBox2.Text = Exchange.Description;
                 dateTimePicker1.Value = Exchange.Date;
-                if(Exchange.Type=="Доход")
+                if (Exchange.Type == "Доход")
                 {
-                    comboBox1.SelectedIndex=1;
+                    comboBox1.SelectedIndex = 1;
                 }
                 else
                 {
