@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<Wallet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <opers>
+    <Operation>
+      <Sum>1005</Sum>
+      <Date>2020-05-27T21:06:04</Date>
+      <Description>просто edit</Description>
+      <Type>Доход</Type>
+    </Operation>
+    <Operation>
+      <Sum>100</Sum>
+      <Date>2020-05-27T21:06:04</Date>
+      <Description>просто edit2</Description>
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>50.1</Sum>
+      <Date>2020-05-28T15:06:03.1021448+03:00</Date>
+      <Description>sd</Description>
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>5</Sum>
+      <Date>2020-05-28T15:16:04.5569132+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>312.79</Sum>
+      <Date>2020-05-28T15:19:40</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>1</Sum>
+      <Date>2020-05-28T15:22:16.4082428+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>1</Sum>
+      <Date>2020-05-28T15:22:19.4434977+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>1</Sum>
+      <Date>2020-05-28T15:22:21.6841248+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>1</Sum>
+      <Date>2020-05-28T15:22:23.8171049+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>1</Sum>
+      <Date>2020-05-28T15:22:25.9088483+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>123</Sum>
+      <Date>2020-05-28T15:22:27.4518906+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>213</Sum>
+      <Date>2020-05-28T15:22:30.1320422+03:00</Date>
+      <Description />
+      <Type>Расход</Type>
+    </Operation>
+    <Operation>
+      <Sum>10000.15</Sum>
+      <Date>2020-05-28T15:22:33.2203719+03:00</Date>
+      <Description />
+      <Type>Доход</Type>
+    </Operation>
+  </opers>
+  <Money>10196.26</Money>
+</Wallet>

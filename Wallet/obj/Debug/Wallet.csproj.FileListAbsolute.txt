@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\bin\Debug\Wallet.exe
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\bin\Debug\Wallet.pdb
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.Form1.resources
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.exe
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.pdb
+C:\Users\Дмитрий\Documents\progs\HomeWorksCS1\Wallet\obj\Debug\Wallet.Form2.resources
